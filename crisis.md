@@ -1,7 +1,7 @@
 ---
 layout: page
 title: (Again) CRISIS
-permalink: /crisis/
+permalink: /againcrisis/
 ---
 
 This is a comic book.
