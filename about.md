@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, my name is Javier Oviedo and I'm an artist from Argentina, I make illustrations and I write and draw my own comics.
 
-### More Information
+I just published "(Again) CRISIS", a book you can read in this site.
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently developing new ideas for a new book and I'm also available for work, so feel free to contact me. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[javieroviedo294@gmail.com](mailto:javieroviedo294@gmail.com)
