@@ -235,6 +235,14 @@ nav {
       color: $blue;
     }
   }
+  
+  .btn-crisis {
+	  background: black;
+	  color: white;
+	    &:hover, &:active {
+             text-decoration: underline; 
+           }
+  }
 }
 
 //
